@@ -1,3 +1,3 @@
 # portfolio
 
-link:tishaaportfolio.netlify.app
+https://tishaanandeshwarportfolio.netlify.app/#home
